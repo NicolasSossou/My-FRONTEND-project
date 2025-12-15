@@ -3,7 +3,7 @@ This is my frontend website project created using HTML, CSS, and JavaScript.
 
 # FILE-STRUCTURE
 
-WEBBSIDA-1/
+Websitehtml/
 │──files 
 │── index.html
 │── script.js
@@ -13,7 +13,7 @@ WEBBSIDA-1/
 The form on this site uses **FormSubmit** to send emails directly without a backend.
 
 # How-to-Run
-Simply open the subfolder webbsida-1/index.html in VS Code and run with **Live Server**.
+Simply open the index.html in VS Code and run with **Live Server**.
 
 # Author
 NICOLAS SOSSOU
