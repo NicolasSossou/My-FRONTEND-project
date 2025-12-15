@@ -3,18 +3,11 @@ This is my frontend website project created using HTML, CSS, and JavaScript.
 
 # FILE-STRUCTURE
 
-Websidahtml-css/
-│── MinWebbsidaInomFrontend.html
+WEBBSIDA-1/
 │──files 
-│──about.html
-│──contact.html
-│──Downloadcv.html
-│──email.html
-│──knowledge.html
-│──portfolio.html
-│──references.html
-│──Style.css
-│──weather.html 
+│── index.html
+│── script.js
+│── style.css
 
 # Contact-Form
 The form on this site uses **FormSubmit** to send emails directly without a backend.
