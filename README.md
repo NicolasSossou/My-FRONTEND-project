@@ -12,9 +12,14 @@ WEBBSIDA-1/
 # Contact-Form
 The form on this site uses **FormSubmit** to send emails directly without a backend.
 
+#You can access the live website here!
+
+*https://NicolasSossou.github.io/My-FRONTEND-project/*
+
 # How-to-Run
 Simply open the project in VS Code and run with **Live Server**.
 
 # Author
 NICOLAS SOSSOU
-GitHub: (https://github.com/NicolasSossou)
+GitHub: (https://github.com/NicolasSosso)
+
