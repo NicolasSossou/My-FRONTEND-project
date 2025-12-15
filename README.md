@@ -13,7 +13,7 @@ WEBBSIDA-1/
 The form on this site uses **FormSubmit** to send emails directly without a backend.
 
 # How-to-Run
-Simply open the project in VS Code and run with **Live Server**.
+Simply open the subfolder webbsida-1/index.htm in VS Code and run with **Live Server**.
 
 # Author
 NICOLAS SOSSOU
