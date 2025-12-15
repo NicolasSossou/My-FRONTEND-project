@@ -6,6 +6,7 @@ This is my frontend website project created using HTML, CSS, and JavaScript.
 WEBBSIDA-1/
 │──files 
 │── index.html
+│──README.md
 │── script.js
 │── style.css
 
